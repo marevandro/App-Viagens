@@ -13,7 +13,7 @@ Aplicativo para calcular custos de viagens baseado em dados fornecidos pelo usu�
 
 Veja o vídeo de demonstração do aplicativo em funcionamento:
 
-[![Demonstração do Projeto](link_para_thumb)](link_para_video)
+https://github.com/user-attachments/assets/8c6e3560-d1a7-4143-b1d3-1004a86764d2
 
 ## ⚙️ Instalação
 
